@@ -4,12 +4,12 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  padding: 40px 100px;
   box-sizing: border-box;
 }
 
 .products {
+  padding: 0;
   display: grid;
-  grid-gap: 4rem;
-  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  grid-gap: 3rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
