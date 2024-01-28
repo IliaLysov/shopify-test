@@ -1,0 +1,18 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border: 1px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 60px;
+    border-radius: 20px;
+    background-color: rgb(107, 107, 107);
+}
+
+.image {
+    height: auto;
+    width: 100%;
+}
